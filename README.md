@@ -2,7 +2,7 @@
 
 The Robot Command Interpreter is a simple program that translates human-friendly command-line inputs into commands that a robot can understand. 
 
-The program interprets commands such as `"Robot, please move 3 spaces ahead and then kindly turn 90 degrees"`. This command would be interpreted by the program as `"MOVE,3"` and `"TURN,90"`.
+The program interprets commands such as `"Robot please move 3 spaces ahead and then kindly turn 90 degrees"`. This command would be interpreted by the program as `"MOVE,3"` and `"TURN,90"`.
 
 The project uses Lex and Yacc, tools for generating scanners and parsers respectively. The scanner is specified in `robot.l` and the parser in `robot.y`. 
 
