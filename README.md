@@ -95,6 +95,4 @@ make clean
 
 This will remove the robot executable and the lex.yy.c and y.tab.c files.
 
-## PDF Report
-
-[Take me to the pdf now!](https://docs.google.com/document/d/1kSQE9pl-DScJ8UnD6wg5FQi_6PvyxQ5dJcUP49Bb-X8/edit?usp=sharing)
+Enjoy!!!
